@@ -6,7 +6,6 @@
   "author": "Delacannon <delacannon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^6.4.2",
-    "nodemailer-smtp-transport": "^2.7.4"
+    "nodemailer": "^6.4.2"
   }
 }
