@@ -1,7 +1,6 @@
 {
-  "name": "lambdatest",
+  "name": "hello",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/delacannon/lambdatest.git",
   "author": "Delacannon <delacannon@gmail.com>",
   "license": "MIT",
