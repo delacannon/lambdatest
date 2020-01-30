@@ -1,0 +1,11 @@
+{
+  "name": "lambdatest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/delacannon/lambdatest.git",
+  "author": "Delacannon <delacannon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.2"
+  }
+}
