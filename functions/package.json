@@ -5,5 +5,8 @@
     "axios": "^0.19.2",
     "nodemailer": "^6.4.2",
     "nodemailer-smtp-transport": "^2.7.4"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
 }
